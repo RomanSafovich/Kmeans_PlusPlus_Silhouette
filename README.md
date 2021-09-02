@@ -1,1 +1,1 @@
-# Kmeans_PlusPlus_Silhouette
+# Pure_Kmeans_PP
